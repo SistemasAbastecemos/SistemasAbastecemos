@@ -16,7 +16,6 @@ Somos el equipo de **Tecnología e Infraestructura** de Supermercado Belalcázar
 
 Este espacio centraliza todo el desarrollo interno, herramientas operativas y documentación técnica del área de Sistemas.
 
-Creemos que el código que no está versionado, no existe.  
 Creemos que la documentación no es opcional.  
 Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
@@ -92,16 +91,16 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     CENTRALIZACIÓN     →   El código vive aquí, no en        ║
+║       CENTRALIZACIÓN     →   El código vive aquí, no en      ║
 ║                              carpetas locales                ║
 ║                                                              ║
-║      DOCUMENTACIÓN      → Informacion centralizada y         ║
-║                            guardada en la nube al acceso     ║
-║                         .  de las personas del equipo        ║
+║       DOCUMENTACIÓN      →   Información centralizada y      ║
+║                              guardada en la nube al acceso   ║
+║                              de las personas del equipo      ║
 ║                                                              ║
 ║      ACTUALIZACIÓN      →   Dependencias al día, CVEs        ║
 ║                              monitoreados, herramientas      ║
-║                              revisadas periódicamente.       ║
+║                              revisadas periódicamente        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -119,10 +118,24 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 
 ---
 
-## Actividad del equipo
+##  Actividad del equipo
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SistemasAbastecemos&theme=react-dark&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+##  Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -132,7 +145,7 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 **Supermercado Belalcázar — Área de Sistemas**  
-*Construyendo tecnología que impulsa el negocio* 
+*Construyendo tecnología que impulsa el negocio* 🛒
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SistemasAbastecemos.SistemasAbastecemos&color=2E9EF7)
 
