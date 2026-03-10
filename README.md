@@ -16,9 +16,7 @@ Somos el equipo de **Tecnología e Infraestructura** de Supermercado Belalcázar
 
 Este espacio centraliza todo el desarrollo interno, herramientas operativas y documentación técnica del área de Sistemas.
 
-Creemos que el código que no está versionado, no existe.  
-Creemos que la documentación no es opcional.  
-Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
+
 
 <br clear="right"/>
 
@@ -45,7 +43,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
     </td>
     <td align="center" width="200">
       <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/><br/>
-      <b>Reportería</b><br/>
+      <b>Power BI</b><br/>
       <sub>Integración con equipos, reportes automáticos y BI</sub>
     </td>
   </tr>
@@ -92,14 +90,14 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   CENTRALIZACIÓN    →   El código vive aquí, no en          ║
-║                          carpetas locales ni en chats        ║
+║   CENTRALIZACIÓN    →   El código vive aquí, no en           ║
+║                          carpetas locales                    ║
 ║                                                              ║
-║   DOCUMENTACIÓN     →   Información centralizada y          ║
+║   DOCUMENTACIÓN     →   Información centralizada y           ║
 ║                          guardada en la nube al acceso       ║
 ║                          de las personas del equipo          ║
 ║                                                              ║
-║   ACTUALIZACIÓN     →   Dependencias al día, CVEs           ║
+║   ACTUALIZACIÓN     →   Dependencias al día, CVEs            ║
 ║                          monitoreados, herramientas          ║
 ║                          revisadas periódicamente            ║
 ║                                                              ║
@@ -107,6 +105,36 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 ```
 
 </div>
+
+---
+
+## Equipo
+
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <img src="https://avatars.githubusercontent.com/jonathangomez" width="80" style="border-radius:50%"/><br/>
+      <br/>
+      <b>Jonathan Gomez</b><br/>
+      <sub>Desarrollador de Software</sub><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td width="40"></td>
+    <td align="center" width="280">
+      <img src="https://avatars.githubusercontent.com/St4rvul" width="80" style="border-radius:50%"/><br/>
+      <br/>
+      <b>Daniel Marquez</b><br/>
+      <sub>Scripts e Infraestructura — Seguridad</sub><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
