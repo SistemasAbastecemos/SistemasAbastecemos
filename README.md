@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=👋+Bienvenido+a+Sistemas+Belalcázar;Infraestructura+%7C+Desarrollo+%7C+Seguridad;Construyendo+soluciones+que+funcionan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Bienvenido+a+Sistemas+Belalcázar;Infraestructura+%7C+Desarrollo+%7C+Seguridad;Construyendo+soluciones+que+funcionan.)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
 
@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
-## 🏢 Quiénes somos
+## Quiénes somos
 
 Somos el equipo de **Tecnología e Infraestructura** de Supermercado Belalcázar.
 
@@ -24,7 +24,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-## 🚀 Qué hacemos
+## Qué hacemos
 
 <table>
   <tr>
@@ -53,7 +53,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
@@ -85,23 +85,23 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-## 🧭 Nuestra filosofía
+## Nuestra filosofía
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   📦 CENTRALIZACIÓN     →   El código vive aquí, no en      ║
-║                              carpetas locales                ║
+║   CENTRALIZACIÓN    →   El código vive aquí, no en          ║
+║                          carpetas locales ni en chats        ║
 ║                                                              ║
-║   📖 DOCUMENTACIÓN      →   Información centralizada y      ║
-║                              guardada en la nube al acceso   ║
-║                              de las personas del equipo      ║
+║   DOCUMENTACIÓN     →   Información centralizada y          ║
+║                          guardada en la nube al acceso       ║
+║                          de las personas del equipo          ║
 ║                                                              ║
-║   🔄 ACTUALIZACIÓN      →   Dependencias al día, CVEs        ║
-║                              monitoreados, herramientas      ║
-║                              revisadas periódicamente        ║
+║   ACTUALIZACIÓN     →   Dependencias al día, CVEs           ║
+║                          monitoreados, herramientas          ║
+║                          revisadas periódicamente            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -110,7 +110,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-## 🔒 Acceso y repositorios
+## Acceso y repositorios
 
 La mayoría de los repositorios son **privados** por razones de seguridad operativa.  
 Los repositorios públicos corresponden a proyectos sin información sensible del negocio.
@@ -119,7 +119,7 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 
 ---
 
-## 📊 Actividad del equipo
+## Actividad del equipo
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SistemasAbastecemos&theme=react-dark&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
@@ -127,15 +127,15 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 
 ---
 
-## 🐍 Contribuciones
+## Contribuciones
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/SistemasAbastecemos/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SistemasAbastecemos/.github/output/github-contribution-grid-snake.svg" />
+      srcset="https://raw.githubusercontent.com/SistemasAbastecemos/SistemasAbastecemos/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SistemasAbastecemos/SistemasAbastecemos/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -146,7 +146,7 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 **Supermercado Belalcázar — Área de Sistemas**  
-*Construyendo tecnología que impulsa el negocio* 🛒
+*Construyendo tecnología que impulsa el negocio*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SistemasAbastecemos.SistemasAbastecemos&color=2E9EF7)
 
