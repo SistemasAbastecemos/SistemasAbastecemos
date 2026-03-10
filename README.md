@@ -10,12 +10,13 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
-##  Quiénes somos
+## 🏢 Quiénes somos
 
 Somos el equipo de **Tecnología e Infraestructura** de Supermercado Belalcázar.
 
 Este espacio centraliza todo el desarrollo interno, herramientas operativas y documentación técnica del área de Sistemas.
 
+Creemos que el código que no está versionado, no existe.  
 Creemos que la documentación no es opcional.  
 Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
@@ -23,7 +24,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-##  Qué hacemos
+## 🚀 Qué hacemos
 
 <table>
   <tr>
@@ -52,7 +53,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-##  Stack tecnológico
+## 🛠️ Stack tecnológico
 
 <div align="center">
 
@@ -84,21 +85,21 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-##  Nuestra filosofía
+## 🧭 Nuestra filosofía
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       CENTRALIZACIÓN     →   El código vive aquí, no en      ║
+║   📦 CENTRALIZACIÓN     →   El código vive aquí, no en      ║
 ║                              carpetas locales                ║
 ║                                                              ║
-║       DOCUMENTACIÓN      →   Información centralizada y      ║
+║   📖 DOCUMENTACIÓN      →   Información centralizada y      ║
 ║                              guardada en la nube al acceso   ║
 ║                              de las personas del equipo      ║
 ║                                                              ║
-║      ACTUALIZACIÓN      →   Dependencias al día, CVEs        ║
+║   🔄 ACTUALIZACIÓN      →   Dependencias al día, CVEs        ║
 ║                              monitoreados, herramientas      ║
 ║                              revisadas periódicamente        ║
 ║                                                              ║
@@ -109,7 +110,7 @@ Creemos que automatizar lo repetitivo libera tiempo para lo que importa.
 
 ---
 
-##  Acceso y repositorios
+## 🔒 Acceso y repositorios
 
 La mayoría de los repositorios son **privados** por razones de seguridad operativa.  
 Los repositorios públicos corresponden a proyectos sin información sensible del negocio.
@@ -118,7 +119,7 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 
 ---
 
-##  Actividad del equipo
+## 📊 Actividad del equipo
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SistemasAbastecemos&theme=react-dark&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
@@ -126,7 +127,7 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 
 ---
 
-##  Contribuciones
+## 🐍 Contribuciones
 
 <div align="center">
   <picture>
