@@ -174,7 +174,6 @@ Los repositorios públicos corresponden a proyectos sin información sensible de
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 **Supermercado Belalcázar — Área de Sistemas**  
-*Construyendo tecnología que impulsa el negocio*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SistemasAbastecemos.SistemasAbastecemos&color=2E9EF7)
 
